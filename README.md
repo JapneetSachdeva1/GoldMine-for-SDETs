@@ -25,15 +25,12 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 
 ### Knowledge Base Covered in the below attached resources: 
 
-![Uploading 1.png…]()
 
-![Uploading 2.png…]()
+
 
 ### Automation Path:
 
-![Uploading 3.png…]()
 
-![Uploading 4.png…]()
 
 
 ### ![SDET Interview Preparation Questions   Answers Bank](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/e25c583f-1b17-44d1-974e-e7eea8cf84bb)
