@@ -52,60 +52,19 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 
 ### Automation Path:
 
-QA Engineer Roadmap
-├── Backend Automated Testing
-│   └── Automation Framework
-│       ├── Cypress.io
-│       ├── Rest-Assured
-│       ├── Codeception
-│       ├── newMan
-│       ├── postMan
-│       └── SoapUI
-├── Mobile Automated Testing
-│   └── Automation Framework
-│       ├── Appium
-│       ├── XCUITest
-│       ├── Espresso
-│       └── Detox
-├── Non-Functional Testing depth
-│   ├── Load & Performance
-│   │   ├── JMeter
-│   │   ├── Vegeta
-│   │   ├── Gatling
-│   │   ├── K6
-│   │   ├── Browser add-on
-│   │   │   ├── Lighthouse
-│   │   │   └── Webpage Test
-│   └── Backup your tech stack
-│       ├── Email listeners
-│       │   ├── Gmail Tester
-│       │   └── mailinator
-│       ├── Reporting
-│       │   ├── Mochawesome
-│       │   ├── Textroll
-│       │   ├── Allure
-│       │   └── JUnit
-│       └── Monitoring & logs
-│           ├── Sentry
-│           ├── Kibana
-│           ├── RunScope
-│           ├── Grafana
-│           └── Pager Duty
-├── CI & CD
-│   ├── Repository Hosting
-│   │   ├── GitHub
-│   │   └── BitBucket
-│   ├── GOCD
-│   ├── Jenkins
-│   └── Terminal & CL
-│       └── iTerm
-└── Good to work with
-    ├── Headless Testing
-    │   ├── Zombie JS
-    │   ├── Electron
-    │   ├── Phantom JS
-    │   └── PHP browser
-    └── Open Ending... keep learning!
+# Automated Testing
+
+| Section | Subsection | Topics |
+| ------- | ---------- | ------ |
+| **Backend Automated Testing** | **Automation Framework** | Cypress.io, Rest-Assured, Codeception, newMan, postMan, SoapUI |
+| **Mobile Automated Testing** | **Automation Framework** | Appium, XCUITest, Espresso, Detox |
+| **Non-Functional Testing Depth** | **Load & Performance** | Tools (JMeter, Vegeta, Gatling, K6), Browser Add-ons (Lighthouse, Webpage Test) |
+| | **Backup Your Tech Stack** | Email Listeners (Gmail Tester, mailinator), Monitoring & Logs (Sentry, Kibana, RunScope, Grafana, Pager Duty) |
+| **Reporting** | | Mochawesome, Textreli, Allure, jUnit |
+| **CI & CD** | **Version Controller** | GIT, GitHub, BitBucket |
+| | **Repository Hosting** | GOCD, Jenkins |
+| | **Terminal & CL** | iTerm, CL |
+| | **Headless Testing** | Zombie JS, Electron, Phantom JS, PHP browser |
 
 
 
