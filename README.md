@@ -10,20 +10,21 @@ Explore the resources below and consider enrolling in the courses to boost your 
 
 All the best!
 
-Why Choose Our Resources?
+## Why Choose Our Resources?
 Comprehensive Content: Our e-books and courses cover a wide range of topics and tools that are essential for SDETs.
 Real-World Examples: Learn through practical examples and scenarios that you are likely to encounter in your job.
 Self-Paced Learning: Study at your own pace with resources that are available anytime, anywhere.
 Expert Guidance: Benefit from the knowledge and experience of industry experts who have designed these materials.
 Career Advancement: Equip yourself with the skills and knowledge to advance your career and stand out in the job market.
 
-1) ![SDET Interview Preparation Questions   Answers Bank](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/e25c583f-1b17-44d1-974e-e7eea8cf84bb)
+### ![SDET Interview Preparation Questions   Answers Bank](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/e25c583f-1b17-44d1-974e-e7eea8cf84bb)
 
-   Purchase URL: https://topmate.io/japneet_sachdeva/1036629
+   **Purchase URL: https://topmate.io/japneet_sachdeva/1036629**
 
    Curriculum for the E-Book:
 
-   Major Topics Covered:
+  ### Major Topics Covered:
+  
 1. Test automation framework design challenges?
 
 2. Types of Development Techniques in Agile Methodologies
@@ -66,11 +67,12 @@ PAGE Object Model Description
 
     Read more & purchase URL: https://topmate.io/japneet_sachdeva/1036629
 
-2) ![AI](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/98918048-2e0d-492a-b994-58c369629989)
 
-   Purchase URL: https://topmate.io/japneet_sachdeva/764225
+![AI](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/98918048-2e0d-492a-b994-58c369629989)
 
-   This Guide includes:
+   **Purchase URL: https://topmate.io/japneet_sachdeva/764225**
+
+  ### This Guide includes:
 
   1) Turn Chat GPT into a QA Expert	
   2) Making ChatGpt for aware	
@@ -85,9 +87,8 @@ PAGE Object Model Description
   11) Make sense of system/coding errors with ChatGPT	
   12) Create test scripts	
   Jmeter:	
-  Postman Script:	
-  More Prompts	
-    13) Prompt Engineering with Examples:	
+  Postman Script:		
+   13) Prompt Engineering with Examples:	
   Test Scenario Generation (Basic)	
   CSV Format Test Cases for Upload to Jira	
   Generate Test Scenarios from Requirement (Advanced)	
@@ -102,21 +103,22 @@ PAGE Object Model Description
   15) Zero Shot Prompting:	
   16) Few-Shot Prompting:
 
-3) ![Crack Interviews for Top Companies like (2)](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/b4ad994e-bb06-4810-8815-b522b09dc5e9)
+
+![Crack Interviews for Top Companies like (2)](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/b4ad994e-bb06-4810-8815-b522b09dc5e9)
 
 I have given 133+ interviews till now 2024, keeping track of those I have picked up some unique questions which were asked to me, Read more about my Rejections: https://japneetsachdeva.medium.com/my-rejections-non-fiction-724485d98fe8
 
-Purchase URL: https://topmate.io/japneet_sachdeva/730957
+**Purchase URL: https://topmate.io/japneet_sachdeva/730957**
 
-Topics covered:
+### Topics covered:
 
 This is a one stop solution for you, to get a job in QA & QA Automation.
 
 It's a complete strategy that I have used and discussed with more then 200 mentee's who are able to successfully get a job using my tricks.
 
-What this course contains?
+### What this course contains?
 
-**** Recorded Videos by me ****
+** Recorded Videos by me **
 
 1) Strategy about "How & when to apply for jobs?"
 
@@ -140,9 +142,9 @@ What this course contains?
 
 4)  ![SDET Interview Preparation Questions   Answers Bank (1)](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/c5004179-278d-4178-a4e3-59e5bff2f14c)
 
-   Purchase URL: https://topmate.io/japneet_sachdeva/842981
+ **Purchase URL: https://topmate.io/japneet_sachdeva/842981**
 
-I have given 133+ interviews till now 2024, keeping track of those I have picked up some unique questions which were asked to me.
+### I have given 133+ interviews till now 2024, keeping track of those I have picked up some unique questions which were asked to me.
 
 Collected more then 950+ questions and answers which can help you crack your next Automation Interview!
 
@@ -192,16 +194,17 @@ So I have prepared answers for those questions and you can use this question ban
 
 You can expect such questions if your experience ranges from 3 to 15 years.
 
-5) ![SDET Interview Preparation Questions   Answers Bank (2)](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/30ff3b85-c7b2-4743-b944-beaef9ba6d0d)
 
-   Purchase URL: https://topmate.io/japneet_sachdeva/799592
+![SDET Interview Preparation Questions   Answers Bank (2)](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/30ff3b85-c7b2-4743-b944-beaef9ba6d0d)
 
-Java E-Book Description:
+**Purchase URL: https://topmate.io/japneet_sachdeva/799592**
+
+### Java E-Book Description:
 
 This is a one stop solution, which covers JAVA for QA Automation Engineers. This guide can be used for Interview Preparation or Sole purpose of learning and becoming an Intermediate to Expert in JAVA.
 
 
-Top Offerings in Package: 
+### Top Offerings in Package: 
 
 1) Complete JAVA Understanding with explanations and Coding Examples
 
@@ -210,8 +213,7 @@ Top Offerings in Package:
 3) Theory Questions for Interview Prep
 
 
-
-Below are the topics I have covered: 
+### Below are the topics I have covered: 
 
 1) JAVA Architecture
 
@@ -253,7 +255,7 @@ Updates made -
 3) Manual QA interview questions and answers
 4) More API Testing questions and answers soon!
 
-Below are the concepts covered in this Questions and Answers Book:
+### Below are the concepts covered in this Questions and Answers Book:
 
 1) JAVA theory and Coding questions
 2) Selenium complete prep with framework
