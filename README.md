@@ -23,6 +23,160 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 **Medium: https://japneetsachdeva.medium.com/**
 **Instagram: https://www.instagram.com/sachdeva_japneet/**
 
+### Knowledge Base Covered in the below attached resources: 
+
+QA Engineer Roadmap
+├── Start with the fundamentals
+│   ├── Testing Approaches
+│   │   ├── White-box Testing
+│   │   ├── Grey-box Testing
+│   │   └── Black-box Testing
+│   ├── Testing Types
+│   │   ├── Functional Testing
+│   │   └── Non-Functional Testing
+│   │       ├── UAT
+│   │       ├── Exploratory Testing
+│   │       ├── Quality Testing
+│   │       ├── Regression Testing
+│   │       ├── Smoke Testing
+│   │       ├── Unit Testing
+│   │       ├── Integration Testing
+│   │       ├── Load Testing
+│   │       ├── Performance Testing
+│   │       ├── Stress Testing
+│   │       └── Security Testing
+│   ├── Manage Your Testing
+│   │   ├── qTest
+│   │   ├── TestRail
+│   │   ├── TestLink
+│   │   └── Zephyr
+│   └── Project Management
+│       ├── Atlassian
+│       │   ├── Jira
+│       │   └── Confluence
+│       ├── Assembla
+│       ├── YouTrack
+│       └── Trello
+├── Understand your SDLC delivery model
+│   ├── Waterfall Model
+│   │   └── Hand-off approach
+│   ├── Agile Model
+│   │   └── Sync and Iterative
+│   └── V Model
+│       └── Sequential
+├── Manual Testing Understanding
+│   ├── TDD (Test-Driven Development)
+│   │   ├── Understand the need to adapt TDD
+│   │   ├── Develops a tight testing and coding cycle
+│   │   ├── Ensures minimal rework and effort during regression
+│   │   └── Clear set of acceptance criteria for predictability
+│   ├── Test Planning
+│   │   └── Understand scope and deliverables
+│   ├── Test Cases & Scenarios
+│   │   ├── Detailed scenarios covering edge cases
+│   │   ├── Ensure coverage of all possibilities
+│   │   └── Balance new and existing experience
+│   ├── Reporting
+│   │   ├── Effective communication with stakeholders
+│   │   ├── Transparent and impactful reporting
+│   │   └── Ensure issue visibility
+│   ├── Compatibility
+│   │   ├── QA Engineer's role in ensuring compatibility
+│   │   ├── Tests across different devices, browsers, and software
+│   │   └── Ensure smooth user experience
+│   └── Verification & Validation
+│       ├── Understand the difference
+│       │   ├── Verification: Building the product right
+│       │   └── Validation: Building the right product
+├── Automation Testing Understanding
+│   ├── Mobile Automation
+│   ├── Backend Automation
+│   ├── Frontend Automation
+│   └── Frontend Automated Testing
+│       ├── Browser add-ons
+│       │   ├── Selenium IDE
+│       │   ├── CodeCeption add-on
+│       │   ├── Ghost Inspector
+│       │   ├── Bug Magnet
+│       │   └── Check my links
+│       ├── Automation Framework
+│       │   ├── Selenium-less
+│       │   │   ├── gwWof
+│       │   │   ├── Hecha.js
+│       │   │   ├── Webdriver.IO
+│       │   │   ├── Jasmine JS
+│       │   │   ├── Webdriver.IO
+│       │   │   ├── Protractor JS
+│       │   │   ├── Nightwatch JS
+│       │   │   ├── CodeCeption
+│       │   │   ├── Robot
+│       │   │   ├── Zest
+│       │   │   └── Cypress.io
+
+Open Ending... keep learning!
+
+### Automation Path:
+
+Automated Testing
+├── Backend Automated Testing
+│   └── Automation Framework
+│       ├── Cypress.io
+│       ├── Rest-Assured
+│       ├── Codeception
+│       ├── newMan
+│       ├── postMan
+│       └── SoapUI
+├── Mobile Automated Testing
+│   └── Automation Framework
+│       ├── Appium
+│       ├── XCUITest
+│       ├── Espresso
+│       └── Detox
+├── Non-Functional Testing Depth
+│   ├── Load & Performance
+│   │   ├── Tools
+│   │   │   ├── JMeter
+│   │   │   ├── Vegeta
+│   │   │   ├── Gatling
+│   │   │   └── K6
+│   │   └── Browser Add-ons
+│   │       ├── Lighthouse
+│   │       └── Webpage Test
+│   └── Backup Your Tech Stack
+│       ├── Email Listeners
+│       │   ├── Gmail Tester
+│       │   └── mailinator
+│       └── Monitoring & Logs
+│           ├── Sentry
+│           ├── Kibana
+│           ├── RunScope
+│           ├── Grafana
+│           └── Pager Duty
+├── Reporting
+│   ├── Mochawesome
+│   ├── Textreli
+│   ├── Allure
+│   └── jUnit
+└── CI & CD
+    ├── Version Controller
+    │   ├── GIT
+    │   ├── GitHub
+    │   └── BitBucket
+    ├── Repository Hosting
+    │   ├── GOCD
+    │   └── Jenkins
+    ├── Terminal & CL
+    │   ├── iTerm
+    │   └── CL
+    └── Headless Testing
+        ├── Zombie JS
+        ├── Electron
+        ├── Phantom JS
+        └── PHP browser
+
+Open Ending... keep learning!
+
+
 ### ![SDET Interview Preparation Questions   Answers Bank](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/e25c583f-1b17-44d1-974e-e7eea8cf84bb)
 
    **Purchase URL: https://topmate.io/japneet_sachdeva/1036629**
@@ -275,8 +429,4 @@ Updates made -
 10) API Testing
 11) Free Practice WebSites
 
-![68747470733a2f2f692e696d6775722e636f6d2f634d39634d38542e706e67](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/102cd3a9-9568-430d-ac51-77cda9494f79)
 
-Inspired: https://github.com/fityanos/awesome-quality-assurance-roadmap?tab=readme-ov-file#test-plan-sample
-
-![68747470733a2f2f692e696d6775722e636f6d2f6d656f64414b702e706e67](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/62233326-17be-405e-a597-07260c9ea1f0)
