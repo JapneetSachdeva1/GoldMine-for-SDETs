@@ -25,95 +25,29 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 
 ### Knowledge Base Covered in the below attached resources: 
 
-QA Engineer Roadmap
-├── Start with the fundamentals
-│   ├── Testing Approaches
-│   │   ├── White-box Testing
-│   │   ├── Grey-box Testing
-│   │   └── Black-box Testing
-│   ├── Testing Types
-│   │   ├── Functional Testing
-│   │   └── Non-Functional Testing
-│   │       ├── UAT
-│   │       ├── Exploratory Testing
-│   │       ├── Quality Testing
-│   │       ├── Regression Testing
-│   │       ├── Smoke Testing
-│   │       ├── Unit Testing
-│   │       ├── Integration Testing
-│   │       ├── Load Testing
-│   │       ├── Performance Testing
-│   │       ├── Stress Testing
-│   │       └── Security Testing
-│   ├── Manage Your Testing
-│   │   ├── qTest
-│   │   ├── TestRail
-│   │   ├── TestLink
-│   │   └── Zephyr
-│   └── Project Management
-│       ├── Atlassian
-│       │   ├── Jira
-│       │   └── Confluence
-│       ├── Assembla
-│       ├── YouTrack
-│       └── Trello
-├── Understand your SDLC delivery model
-│   ├── Waterfall Model
-│   │   └── Hand-off approach
-│   ├── Agile Model
-│   │   └── Sync and Iterative
-│   └── V Model
-│       └── Sequential
-├── Manual Testing Understanding
-│   ├── TDD (Test-Driven Development)
-│   │   ├── Understand the need to adapt TDD
-│   │   ├── Develops a tight testing and coding cycle
-│   │   ├── Ensures minimal rework and effort during regression
-│   │   └── Clear set of acceptance criteria for predictability
-│   ├── Test Planning
-│   │   └── Understand scope and deliverables
-│   ├── Test Cases & Scenarios
-│   │   ├── Detailed scenarios covering edge cases
-│   │   ├── Ensure coverage of all possibilities
-│   │   └── Balance new and existing experience
-│   ├── Reporting
-│   │   ├── Effective communication with stakeholders
-│   │   ├── Transparent and impactful reporting
-│   │   └── Ensure issue visibility
-│   ├── Compatibility
-│   │   ├── QA Engineer's role in ensuring compatibility
-│   │   ├── Tests across different devices, browsers, and software
-│   │   └── Ensure smooth user experience
-│   └── Verification & Validation
-│       ├── Understand the difference
-│       │   ├── Verification: Building the product right
-│       │   └── Validation: Building the right product
-├── Automation Testing Understanding
-│   ├── Mobile Automation
-│   ├── Backend Automation
-│   ├── Frontend Automation
-│   └── Frontend Automated Testing
-│       ├── Browser add-ons
-│       │   ├── Selenium IDE
-│       │   ├── CodeCeption add-on
-│       │   ├── Ghost Inspector
-│       │   ├── Bug Magnet
-│       │   └── Check my links
-│       ├── Automation Framework
-│       │   ├── Selenium-less
-│       │   │   ├── gwWof
-│       │   │   ├── Hecha.js
-│       │   │   ├── Webdriver.IO
-│       │   │   ├── Jasmine JS
-│       │   │   ├── Webdriver.IO
-│       │   │   ├── Protractor JS
-│       │   │   ├── Nightwatch JS
-│       │   │   ├── CodeCeption
-│       │   │   ├── Robot
-│       │   │   ├── Zest
-│       │   │   └── Cypress.io
+# QA Engineer Roadmap
 
-Open Ending... keep learning!
+| Section | Subsection | Topics |
+| ------- | ---------- | ------ |
+| **Start with the fundamentals** | **Testing Approaches** | White-box Testing, Grey-box Testing, Black-box Testing |
+| | **Testing Types** | Functional Testing, Non-Functional Testing (UAT, Exploratory Testing, Quality Testing, Regression Testing, Smoke Testing, Unit Testing, Integration Testing, Load Testing, Performance Testing, Stress Testing, Security Testing) |
+| | **Manage Your Testing** | qTest, TestRail, TestLink, Zephyr |
+| | **Project Management** | Atlassian (Jira, Confluence), Assembla, YouTrack, Trello |
+| **Understand your SDLC delivery model** | **Waterfall Model** | Hand-off approach |
+| | **Agile Model** | Sync and Iterative |
+| | **V Model** | Sequential |
+| **Manual Testing Understanding** | **TDD (Test-Driven Development)** | Understand the need to adapt TDD, Develops a tight testing and coding cycle, Ensures minimal rework and effort during regression, Clear set of acceptance criteria for predictability |
+| | **Test Planning** | Understand scope and deliverables |
+| | **Test Cases & Scenarios** | Detailed scenarios covering edge cases, Ensure coverage of all possibilities, Balance new and existing experience |
+| | **Reporting** | Effective communication with stakeholders, Transparent and impactful reporting, Ensure issue visibility |
+| | **Compatibility** | QA Engineer's role in ensuring compatibility, Tests across different devices, browsers, and software, Ensure smooth user experience |
+| | **Verification & Validation** | Understand the difference, Verification: Building the product right, Validation: Building the right product |
+| **Automation Testing Understanding** | **Mobile Automation** | - |
+| | **Backend Automation** | - |
+| | **Frontend Automation** | - |
+| | **Frontend Automated Testing** | Browser add-ons (Selenium IDE, CodeCeption add-on, Ghost Inspector, Bug Magnet, Check my links), Automation Framework (Selenium-less: gwWof, Hecha.js, Webdriver.IO, Jasmine JS, Webdriver.IO, Protractor JS, Nightwatch JS, CodeCeption, Robot, Zest, Cypress.io) |
+| **Open Ending... keep learning!** | - | - |
+
 
 
 ### Automation Path:
