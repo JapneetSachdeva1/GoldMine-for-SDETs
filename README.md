@@ -25,7 +25,7 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 
 ### Knowledge Base Covered in the below attached resources: 
 
-# QA Engineer Roadmap
+**QA Engineer Roadmap**
 
 | Section | Subsection | Topics |
 | ------- | ---------- | ------ |
@@ -52,6 +52,8 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 
 ### Automation Path:
 
+**Automated Testing**
+
 # Automated Testing
 
 | Section | Subsection | Topics |
@@ -65,7 +67,8 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 | | **Repository Hosting** | GOCD, Jenkins |
 | | **Terminal & CL** | iTerm, CL |
 | | **Headless Testing** | Zombie JS, Electron, Phantom JS, PHP browser |
-
+| **Web Functional Automation** | | Selenium WebDriver, PlayWright, Cypress, Tosca, Katalon, Provar (salesforce) |
+| **Open Ending... keep learning!** | - | - |
 
 
 ### ![SDET Interview Preparation Questions   Answers Bank](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/e25c583f-1b17-44d1-974e-e7eea8cf84bb)
