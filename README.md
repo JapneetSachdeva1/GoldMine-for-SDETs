@@ -42,9 +42,9 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 | | **Reporting** | Effective communication with stakeholders, Transparent and impactful reporting, Ensure issue visibility |
 | | **Compatibility** | QA Engineer's role in ensuring compatibility, Tests across different devices, browsers, and software, Ensure smooth user experience |
 | | **Verification & Validation** | Understand the difference, Verification: Building the product right, Validation: Building the right product |
-| **Automation Testing Understanding** | **Mobile Automation** | - |
-| | **Backend Automation** | - |
-| | **Frontend Automation** | - |
+| **Automation Testing Understanding** | **Mobile Automation** | - refer below |
+| | **Backend Automation** | - refer below|
+| | **Frontend Automation** | - refer below |
 | | **Frontend Automated Testing** | Browser add-ons (Selenium IDE, CodeCeption add-on, Ghost Inspector, Bug Magnet, Check my links), Automation Framework (Selenium-less: gwWof, Hecha.js, Webdriver.IO, Jasmine JS, Webdriver.IO, Protractor JS, Nightwatch JS, CodeCeption, Robot, Zest, Cypress.io) |
 | **Open Ending... keep learning!** | - | - |
 
@@ -62,11 +62,11 @@ Career Advancement: Equip yourself with the skills and knowledge to advance your
 | **Mobile Automated Testing** | **Automation Framework** | Appium, XCUITest, Espresso, Detox |
 | **Non-Functional Testing Depth** | **Load & Performance** | Tools (JMeter, Vegeta, Gatling, K6), Browser Add-ons (Lighthouse, Webpage Test) |
 | | **Backup Your Tech Stack** | Email Listeners (Gmail Tester, mailinator), Monitoring & Logs (Sentry, Kibana, RunScope, Grafana, Pager Duty) |
-| **Reporting** | | Mochawesome, Textreli, Allure, jUnit |
+| **Reporting** | | Mochawesome, Textreli, Allure, jUnit, TestNG, Extent |
 | **CI & CD** | **Version Controller** | GIT, GitHub, BitBucket |
-| | **Repository Hosting** | GOCD, Jenkins |
+| | **Repository Hosting** | GOCD, Jenkins, TeamCity |
 | | **Terminal & CL** | iTerm, CL |
-| | **Headless Testing** | Zombie JS, Electron, Phantom JS, PHP browser |
+| | **Headless Testing** | Zombie JS, Electron, Phantom JS, PHP browser, Chromium |
 | **Web Functional Automation** | | Selenium WebDriver, PlayWright, Cypress, Tosca, Katalon, Provar (salesforce) |
 | **Open Ending... keep learning!** | - | - |
 
