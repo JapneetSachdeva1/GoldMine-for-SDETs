@@ -17,11 +17,11 @@ Self-Paced Learning: Study at your own pace with resources that are available an
 Expert Guidance: Benefit from the knowledge and experience of industry experts who have designed these materials.
 Career Advancement: Equip yourself with the skills and knowledge to advance your career and stand out in the job market.
 
-## My Top Socials: 
-### LinkedIn: https://www.linkedin.com/in/japneet-sachdeva
-### YouTube: https://www.youtube.com/@IamJapneetSachdeva
-### Medium: https://japneetsachdeva.medium.com/
-### Instagram: https://www.instagram.com/sachdeva_japneet/
+### My Top Socials: 
+**LinkedIn: https://www.linkedin.com/in/japneet-sachdeva**
+**YouTube: https://www.youtube.com/@IamJapneetSachdeva**
+**Medium: https://japneetsachdeva.medium.com/**
+**Instagram: https://www.instagram.com/sachdeva_japneet/**
 
 ### ![SDET Interview Preparation Questions   Answers Bank](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/e25c583f-1b17-44d1-974e-e7eea8cf84bb)
 
