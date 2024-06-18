@@ -275,6 +275,8 @@ Updates made -
 10) API Testing
 11) Free Practice WebSites
 
+![68747470733a2f2f692e696d6775722e636f6d2f634d39634d38542e706e67](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/102cd3a9-9568-430d-ac51-77cda9494f79)
 
+Inspired: https://github.com/fityanos/awesome-quality-assurance-roadmap?tab=readme-ov-file#test-plan-sample
 
-
+![68747470733a2f2f692e696d6775722e636f6d2f6d656f64414b702e706e67](https://github.com/JapneetSachdeva1/GoldMine-for-SDETs/assets/46420079/62233326-17be-405e-a597-07260c9ea1f0)
